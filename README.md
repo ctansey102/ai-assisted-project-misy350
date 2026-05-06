@@ -37,4 +37,4 @@ python -m pip install --upgrade pip
 
 python -m pip install streamlit 
 
-python -m pip show streamlit
+python -m pip show streamlit# ai-assisted-project-misy350
